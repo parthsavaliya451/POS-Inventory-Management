@@ -9,9 +9,9 @@ This project is built using **React (Vite)**, **Firebase Authentication**, and *
 ---
 
 **Parth Savaliya**  
-- 🎓 Bachelor’s in Computer Engineering
-- 📍 Hamilton, Ontario, Canada  
-- 💼 Passionate about Web Development
+-  Bachelor’s in Computer Engineering
+-  Hamilton, Ontario, Canada  
+-  Passionate about Web Development
 
 
 ---
@@ -46,7 +46,6 @@ This project is built using **React (Vite)**, **Firebase Authentication**, and *
 
 ---
 
-## 🛠️ Installation & Setup
 
 1. Clone the repository:
    ```bash
