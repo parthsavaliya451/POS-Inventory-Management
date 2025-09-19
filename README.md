@@ -10,11 +10,10 @@ This project is built using **React (Vite)**, **Firebase Authentication**, and *
 
 ## 👨‍💻 Author
 **Parth Savaliya**  
-- 🎓 Bachelor’s in Computer Engineering (R.K. University, Rajkot)  
+- 🎓 Bachelor’s in Computer Engineering
 - 📍 Hamilton, Ontario, Canada  
-- 💼 Passionate about Web Development & Cybersecurity  
-- ✉️ Contact: contact@coin-master-free-spin.com  
-- 🔗 LinkedIn: [Your LinkedIn Profile]  
+- 💼 Passionate about Web Development
+
 
 ---
 
